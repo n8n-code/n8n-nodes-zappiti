@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-zappiti",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Move your app forward with the Zappiti Player API. Use http://your-player-ip:8990/ as base URL for your requests",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-zappiti",
